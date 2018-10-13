@@ -1,0 +1,243 @@
+{
+    "content": {
+        "data": {
+            "isLogin": false,
+            "page": {
+                "pageSize": 15,
+                "start": "15",
+                "result": [
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4437031,
+                        "positionName": "网络销售",
+                        "city": "武汉",
+                        "createTime": "今天 20:58",
+                        "salary": "8k-12k",
+                        "companyId": 246342,
+                        "companyLogo": "i/image/M00/60/D9/CgpEMlmSWVKAd3X6AABuhrQekA8956.jpg",
+                        "companyName": "尚德机构",
+                        "companyFullName": "北京尚德在线教育科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4437080,
+                        "positionName": "呼叫中心专员",
+                        "city": "武汉",
+                        "createTime": "今天 20:58",
+                        "salary": "8k-12k",
+                        "companyId": 246342,
+                        "companyLogo": "i/image/M00/60/D9/CgpEMlmSWVKAd3X6AABuhrQekA8956.jpg",
+                        "companyName": "尚德机构",
+                        "companyFullName": "北京尚德在线教育科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4411007,
+                        "positionName": "月坛：网络推广（自媒体）",
+                        "city": "北京",
+                        "createTime": "今天 20:36",
+                        "salary": "6k-12k",
+                        "companyId": 149034,
+                        "companyLogo": "i/image/M00/5B/EE/CgqKkVfiaO2AeouUAABrk5W83EQ723.jpg",
+                        "companyName": "骏嘉财通",
+                        "companyFullName": "北京骏嘉财通科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4410924,
+                        "positionName": "月坛：网络销售（新媒体运营）",
+                        "city": "北京",
+                        "createTime": "今天 20:36",
+                        "salary": "8k-12k",
+                        "companyId": 149034,
+                        "companyLogo": "i/image/M00/5B/EE/CgqKkVfiaO2AeouUAABrk5W83EQ723.jpg",
+                        "companyName": "骏嘉财通",
+                        "companyFullName": "北京骏嘉财通科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4410393,
+                        "positionName": "Egret游戏开发工程师",
+                        "city": "上海",
+                        "createTime": "今天 20:20",
+                        "salary": "10k-20k",
+                        "companyId": 301983,
+                        "companyLogo": "i/image/M00/71/7F/CgpFT1o7HjSAfL7sAABohJgox-0193.png",
+                        "companyName": "上海风魂网络",
+                        "companyFullName": "上海风魂网络科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4438542,
+                        "positionName": "JAVA开发",
+                        "city": "广州",
+                        "createTime": "今天 20:09",
+                        "salary": "12K-20K",
+                        "companyId": 60895,
+                        "companyLogo": "i/image2/M00/04/9C/CgotOVnEjSKAHZ07AAAr_yUlFQo921.png",
+                        "companyName": "对庄科技",
+                        "companyFullName": "深圳市对庄科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4406355,
+                        "positionName": "求职辅导顾问（Career Coach）",
+                        "city": "武汉",
+                        "createTime": "今天 20:08",
+                        "salary": "6k-10k",
+                        "companyId": 205624,
+                        "companyLogo": "i/image3/M00/33/EF/Cgq2xlqmVXuAK52CAABUXR7juLE900.png",
+                        "companyName": "17Career",
+                        "companyFullName": "上海逐元教育科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4409556,
+                        "positionName": "配置管理工程师",
+                        "city": "广州",
+                        "createTime": "今天 20:00",
+                        "salary": "15k-25k",
+                        "companyId": 16831,
+                        "companyLogo": "i/image2/M01/89/09/CgoB5luSLPSAGf4tAABGs-BTn78740.png",
+                        "companyName": "武汉佰钧成技术有限公司",
+                        "companyFullName": "武汉佰钧成技术有限责任公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4414328,
+                        "positionName": "大数据开发工程师",
+                        "city": "广州",
+                        "createTime": "今天 20:00",
+                        "salary": "15k-28k",
+                        "companyId": 16831,
+                        "companyLogo": "i/image2/M01/89/09/CgoB5luSLPSAGf4tAABGs-BTn78740.png",
+                        "companyName": "武汉佰钧成技术有限公司",
+                        "companyFullName": "武汉佰钧成技术有限责任公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4434743,
+                        "positionName": "HRD（人力资源总监）",
+                        "city": "北京",
+                        "createTime": "今天 19:57",
+                        "salary": "30k-50k",
+                        "companyId": 1211,
+                        "companyLogo": "i/image2/M00/1E/F9/CgoB5loMApqAI9rdAAA9zEeRP1M613.png",
+                        "companyName": "易观",
+                        "companyFullName": "北京易观智库网络科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4415699,
+                        "positionName": "运营助理",
+                        "city": "深圳",
+                        "createTime": "今天 19:55",
+                        "salary": "4k-6k",
+                        "companyId": 40085,
+                        "companyLogo": "i/image/M00/00/FD/CgqKkVZdRz2Aez_BAABF8PRtCa4145.png",
+                        "companyName": "绿茵长空",
+                        "companyFullName": "深圳市绿茵长空科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4418549,
+                        "positionName": "行政助理（商务）",
+                        "city": "北京",
+                        "createTime": "今天 19:53",
+                        "salary": "6k-8k",
+                        "companyId": 7903,
+                        "companyLogo": "i/image/M00/22/3F/Cgp3O1cUgcOAUZ7EAACK8CqTjBs926.png",
+                        "companyName": "天鹏恒宇",
+                        "companyFullName": "北京天鹏恒宇科技发展有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4420390,
+                        "positionName": "前端工程师",
+                        "city": "上海",
+                        "createTime": "今天 19:25",
+                        "salary": "10k-20k",
+                        "companyId": 126457,
+                        "companyLogo": "i/image/M00/24/41/Cgp3O1cZ3Q-ANs07AAJsoq3cGIw813.png",
+                        "companyName": "Soul App",
+                        "companyFullName": "上海任意门科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4422902,
+                        "positionName": "推广类创意策划",
+                        "city": "上海",
+                        "createTime": "今天 19:25",
+                        "salary": "12k-24k",
+                        "companyId": 126457,
+                        "companyLogo": "i/image/M00/24/41/Cgp3O1cZ3Q-ANs07AAJsoq3cGIw813.png",
+                        "companyName": "Soul App",
+                        "companyFullName": "上海任意门科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4435176,
+                        "positionName": "无人车-控制算法",
+                        "city": "北京",
+                        "createTime": "今天 19:21",
+                        "salary": "25k-40k",
+                        "companyId": 50702,
+                        "companyLogo": "i/image/M00/6A/05/Cgp3O1gW8zSAUwUsAABMptH-XY087.jpeg",
+                        "companyName": "美团点评",
+                        "companyFullName": "北京三快在线科技有限公司"
+                    }
+                ],
+                "totalCount": "323409",
+                "pageNo": 2
+            }
+        },
+        "rows": []
+    },
+    "message": "第2页数据,每页15条, 查询成功!",
+    "state": 1
+}
